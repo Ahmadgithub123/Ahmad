@@ -1,0 +1,387 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+.bodyflow
+{
+	overflow: hidden;
+}
+.container
+{
+	
+	width:100%;
+ 
+}
+.menu
+{
+	width:100%;
+	
+	background-color:rgba(31,22,107,1.00);
+	
+	margin:auto;
+	height: 40px;
+	
+}
+
+.dark{
+	background-color:rgba(13,26,123,1.00);
+	color:white;
+	height: 130px;
+	padding-left: 200px;
+}
+
+
+.logo,.searchform,.heading
+{
+	float: left;
+	margin:30px;
+}
+
+#button{
+	background-color: rgba(13,26,123,1.00);
+	color:white;
+	}
+ul li{
+	background-color: rgba(13,26,123,1.00);
+	width:90px;
+	display: inline-block;
+	height:35px;
+	line-height: 30px;
+	text-align: center;
+	 
+	border-right: 1px solid #ABA6A6; 
+}
+ul li a
+{
+	color:white;
+	text-decoration: none;
+	display: block;
+}
+ul
+{
+	background-color: rgba(13,26,123,1.00);
+}
+
+
+#bottom_div_left
+{
+	
+	display: inline-block;
+	width:420px;
+	text-align: center;
+	margin-top: 15px;
+	
+	
+	
+}
+#bottom_div_Right{
+	
+	border: 1px #EB1C20;
+	width:420px;
+	float:right;
+}#slider_image img
+{
+	background-color: lightgrey;
+	text-align: center;
+}
+#bottom_div_left
+{
+	
+	display: inline-block;
+	width:420px;
+	text-align: center;
+	margin-top: 15px;
+	
+	
+	
+}
+#bottom_div_Right{
+	
+	border: 1px #EB1C20;
+	width:420px;
+	float:right;
+}
+.links
+{
+	width:100%;
+	padding-left: 200px;
+	height: 200px;
+}
+.circle
+{
+	height:35px;
+	align:center;
+	line-height:35px;
+	text-align:center;
+	float:left;
+	margin: 20px;
+}
+1#bottom_div_left_text{
+	text-align:center;
+	align:center;
+	margin-top: 20px;
+}
+#light2{
+	margin:4px;
+	
+}
+#bottom_div_center{
+	
+	margin: 4px;
+	
+	display:inline-block;
+	width:290px;
+}#bottom_div_center{
+	
+	margin: 1px;
+	
+	
+	width:190px;
+	display:inline-block;
+	float:left;
+}
+.professor
+{
+	width: 100%;
+	height: 300px;
+	
+	padding-left: 200px;
+}
+
+.chancellor,.vice-chancellor
+{
+	float: left;
+	margin-top: 200px;
+	margin:00px;
+}
+
+
+.chancellor{
+                  	width: auto;
+                  	height: 250px;
+                  	margin-left: 15%;
+                  	border:.4px solid black;
+                    border-right: none;
+                    border-left: none;
+                    border-bottom: none;
+                margin-top: 8%;
+               }
+
+
+                .imgcontainer{
+                  	width:70%;
+                  	height: 400px
+                  	;
+                  	background-color: white;
+                  	margin-left: 15%;
+                  }
+
+                   .img{
+                  
+                  	border:3px solid white;
+                  }
+
+#bottom_div_Right1{
+                  	margin-left: 120%;
+                  	padding-top: -1%;
+                  	margin-right: 50%;
+                  }
+
+                  #bottom_div_left{
+                  	margin-left:15%;
+                  }
+                  .nfchistorybox{
+                  	width: auto;
+                  	height: 600px;
+                  	background-color: #fff;
+                  	color: #000;
+                  	margin-top: -5%;
+                  	font-size: 18px;
+                  	margin-left: 15%;
+                    border:.4px solid #000;
+                    border-left: none;
+                    border-bottom: none;
+                    border-right: none; 
+                  }
+
+                  .logo{
+                  	margin-left:  5%;
+                  	margin-top: 5%;
+                   } p{
+                  	 margin-left: 20px;
+                  	
+                  	 font-size: 18px;
+                       
+                  }
+                  .socialimg{
+                  	margin-right: 20%;
+                  	margin-left: -16%;
+
+                  }
+                  .headingnfc{
+                  	margin-left:  2%;
+                  	margin-top: -11%;
+                  	padding-top: 10px;
+
+                  }
+                  .additionalinfbox{
+                  	width: 30%;
+                  	height: 500px;
+                  	background-color: white;
+                  	color:white;
+                  	margin-left: 65%;
+                  	margin-top:-44%;
+                  }
+                   .additionalinfbox h1{
+                  	margin-left: 7%;
+                  	color:green;
+                  }
+                  .GALLARYimg{
+                  	margin-top: -9%;
+                  }
+                  .PCATPheading{
+                  	padding-top:10%; 
+                  } 
+                  .alvi{
+                  	margin-left: 35%;
+                  	margin-top: -20%;
+                  }
+                  
+                  .vcheading h2{
+                  	padding-top: 16%;
+                  	font-size: 19px;
+                  	margin-right: 10%;
+                  }
+                  .vcheading4{
+                  	margin-left: 210%;
+                  	margin-top: -210%;
+                  }
+                  .ADMISSIONOPENbox{
+                  	margin-left: 90%;
+                  	margin-top: -38%;
+                  	}
+	          .searchbox{
+                  		width: 17%;
+                  		height: 120px;
+                  		border:1px solid black;
+                  		background-color: white
+                  		;
+                  		color:#000;
+                  		margin-left: 90%;
+                  		/*padding-top: 10px;*/
+                  		margin-right: 20%;
+                  		text-align: center;
+                  	}
+                  	.searchtext input[type="search"]{
+                  		width: 90%;
+                  		height: 35px;
+                  		margin-top: -10px;
+                  	}
+                  	.btn{
+                  		width: 50px;
+                  		height: 30px;
+                  		background-color: black;
+                  		color:white;
+                  		margin-right: 158px;
+                  		font-size: 16px;
+                   }
+                   .faculty{
+                   	margin-left: auto;
+                   	padding-top: 20px;
+                   }
+
+                      .requirement{
+                      	margin-top: 27%;
+                      	width: 100%;
+                      	height: 300px;
+                      	border:.5px solid black;
+                      	background-color: darkblue;
+                      	color: white;
+
+                      }
+                      .requirement h1{
+                      	margin-top: 30px;
+                      	    }
+                     .feedback{
+                      	margin-left: 10px;
+                      	}
+                      .feedb h1{
+                      	margin-top: -3%;
+                      	color:white;
+                      	}
+                      	   .onlines{
+                           	margin-left:  1040px;
+                           	color:white;
+                           }
+                          .content{
+                          	margin-left: 650px;
+                          	 }
+                         .CONTACT h2{
+                          	margin-top: -3%;
+                          	color: white;
+                          } 
+                          .contclas{
+                          	margin-left: 20%;
+
+                          }
+                            h3{
+                          	margin-top: -3%;
+                          }
+                          .fimg{
+                          	margin-left: 10px;
+                          	margin-top: 10px;
+                          }
+                           .historyfooter{
+                           	margin-left: 250px;
+                           	margin-top: -12%;
+                           }
+                           .paragraph{
+                           	margin-left: 600px;
+                           	margin-top: -150px;
+                           }
+                            .logoimg{
+                            	margin-left: 600px;
+                            }
+                            .emailimg{
+                            	margin-left: 60px;
+                            }
+                            
+                              .server{
+                              	margin-top: -12%;
+                                   margin-left:  1150px;
+                               }
+                                .headingonline{
+                               	margin-left: 1100px;
+                               	color: white;
+                               	font-size: 16px;
+                               }
+                               .onlineheading{
+                               	margin-left: 1050px;
+                             	font-size: 14px;
+                             }
+                              .container2{
+                              	width: 100%;
+                              	 height: 30px;
+                              	 background-color: blue;
+                              	 color:white;
+                              	 margin-top: 75px;
+                              	 border: .5px solid white;
+                              }
+                              .container2 p{
+                              	margin-left: 40px;
+                              	font-size: 14px;
+                              	margin-top: 10px;
+                              }
+                              .fcontainer3{
+                              	width:97%;
+                              	height: 80px;
+                              	background-color: blue;
+                              	color:white;
+                              	margin-top: -0%;
+                              	padding-top: 20px;
+
+                              }
+                               .fcontainer3 p{
+                               	margin-left: 100px;
+                               }
